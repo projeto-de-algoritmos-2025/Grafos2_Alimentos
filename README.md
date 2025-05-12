@@ -31,6 +31,20 @@ O objetivo deste projeto é treinar e aprofundar a compreensão dos algoritmos d
 ![Imagem 2: Questão 734 aceita no LeetCode](./screenshots/734.png)
 
 **Autora:** [Milena Rocha](https://github.com/MilenaFRocha)  
+---
+
+*Imagem 2: Questão 1489 aceita no LeetCode*  
+![Imagem 2: Questão 1489 aceita no LeetCode](./screenshots/Questao_Kruscal_1489.png)
+
+**Autora:** [Ingrid Alves](https://github.com/alvesingrid)  
+
+---
+
+*Imagem 2: Questão 1584 aceita no LeetCode*  
+![Imagem 2: Questão 1584 aceita no LeetCode](./screenshots/Questao_Prim_1584.png)
+
+**Autora:** [Ingrid Alves](https://github.com/alvesingrid) 
+
 
 
 
