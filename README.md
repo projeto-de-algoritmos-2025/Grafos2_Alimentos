@@ -32,7 +32,7 @@ O objetivo deste projeto é treinar e aprofundar a compreensão dos algoritmos d
 
 <div style="text-align: center">
     <font size="3"><p style="text-align: center">Imagem 2: Questão 734 aceita no LeetCode</p></font>
-    <img src="./screenshots/734.png" alt="2360">
+    <img src="./screenshots/734.png" alt="734">
     <font size="3"><p style="text-align: center"><b>Autora: [Milena Rocha](https://github.com/MilenaFRocha)</b></p></font>
 </div>
 
