@@ -126,9 +126,7 @@ A ordenação das arestas pelo peso é essencial para garantir que o algoritmo d
 **Explicação:**
 
 O objetivo é conectar todos os pontos em um plano 2D com **custo mínimo total**, onde o custo de conexão entre dois pontos é a **distância de Manhattan** entre eles:  
-\[
-\text{dist} = |x_1 - x_2| + |y_1 - y_2|
-\]
+dist = |x1 - x2| + |y1 - y2|
 
 Trata-se de um problema clássico de **Árvore Geradora Mínima (MST)**, resolvido com o **algoritmo de Prim**:
 
