@@ -92,7 +92,56 @@ O **algoritmo de Dijkstra** encontra o menor tempo para alcançar todos os nós 
 
 ---
 
+### Questão 1489 - [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/)
 
+* **Solução:** [1489](./Questoes/1489.py)  
+* **Nível:** Hard  
+* **Conteúdo usado:** Kruskal, Union-Find, MST com inclusão/exclusão de arestas
+
+**Explicação:**
+
+Essa questão exige encontrar, em uma **árvore geradora mínima (MST)**, quais arestas são:
+
+- **Críticas**: se forem removidas, o custo da MST aumenta ou não é possível construir uma MST.
+- **Pseudo-críticas**: podem estar em alguma MST válida, mas não são obrigatórias.
+
+A estratégia consiste em:
+1. Calcular o custo da MST original usando **Kruskal** com uma estrutura **Union-Find**.
+2. Para cada aresta:
+   - **Excluir** e verificar se o custo aumenta (ou fica impossível montar a MST) → ela é crítica.
+   - **Incluir à força** e verificar se o custo continua o mesmo da MST original → ela é pseudo-crítica.
+
+A ordenação das arestas pelo peso é essencial para garantir que o algoritmo de Kruskal funcione corretamente. O índice original de cada aresta é preservado para compor a resposta.
+
+**Resumo:** A solução usa **Kruskal com Union-Find** para construir MSTs com e sem determinadas arestas, identificando se elas são **críticas** (necessárias) ou **pseudo-críticas** (opcionais mas válidas) com base no impacto que causam no custo total da árvore geradora mínima.
+
+---
+
+### Questão 1584 - [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)
+
+* **Solução:** [1584](./Questoes/1584.py)  
+* **Nível:** Medium  
+* **Conteúdo usado:** Algoritmo de Prim, Árvore Geradora Mínima (MST), Min-Heap (Fila de Prioridade)
+
+**Explicação:**
+
+O objetivo é conectar todos os pontos em um plano 2D com **custo mínimo total**, onde o custo de conexão entre dois pontos é a **distância de Manhattan** entre eles:  
+\[
+\text{dist} = |x_1 - x_2| + |y_1 - y_2|
+\]
+
+Trata-se de um problema clássico de **Árvore Geradora Mínima (MST)**, resolvido com o **algoritmo de Prim**:
+
+1. Iniciamos com um ponto arbitrário.
+2. Utilizamos uma **min-heap** para escolher sempre a próxima aresta de menor custo.
+3. A cada passo, conectamos o ponto mais próximo ainda não visitado.
+4. Repetimos até que todos os pontos estejam conectados.
+
+Diferente do Kruskal, o Prim **não precisa gerar todas as arestas previamente**. A distância de cada ponto aos já visitados é calculada dinamicamente.
+
+**Resumo:** A solução aplica o **algoritmo de Prim com fila de prioridade (heap)** para construir uma **MST** conectando todos os pontos com custo mínimo, utilizando a distância de Manhattan como peso entre os nós.
+
+---
 
 
 
