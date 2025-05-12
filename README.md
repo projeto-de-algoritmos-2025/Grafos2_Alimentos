@@ -10,7 +10,7 @@
 | 20/2045348  |  Ingrid Alves Rocha |
 
 ## Sobre 
-O objetivo deste projeto é treinar e aprofundar a compreensão dos algoritmos de Strongly Connected Components (SCC) e Dijkstra, estudados nas últimas semanas. Para isso, o projeto propõe a implementação prática desses algoritmos e a resolução de questões selecionadas da plataforma LeetCode, que apresentam desafios relevantes e aplicados. Essa abordagem permite reforçar o aprendizado teórico por meio da prática, além de desenvolver a capacidade de resolução de problemas em contextos variados.
+O objetivo deste projeto é treinar e aprofundar a compreensão dos algoritmos de Strongly Connected Components (SCC), Dijkstra, Prim e Kruscal estudados nas últimas semanas. Para isso, o projeto propõe a implementação prática desses algoritmos e a resolução de questões selecionadas da plataforma LeetCode, que apresentam desafios relevantes e aplicados. Essa abordagem permite reforçar o aprendizado teórico por meio da prática, além de desenvolver a capacidade de resolução de problemas em contextos variados.
 
 ## Instalação 
 **Linguagem**: Python<br>
@@ -33,15 +33,16 @@ O objetivo deste projeto é treinar e aprofundar a compreensão dos algoritmos d
 **Autora:** [Milena Rocha](https://github.com/MilenaFRocha)  
 ---
 
-*Imagem 2: Questão 1489 aceita no LeetCode*  
-![Imagem 2: Questão 1489 aceita no LeetCode](./screenshots/Questao_Kruscal_1489.png)
+*Imagem 3: Questão 1489 aceita no LeetCode*  
+![Imagem 3: Questão 1489 aceita no LeetCode](./screenshots/Questao_Kruscal_1489.png)
 
 **Autora:** [Ingrid Alves](https://github.com/alvesingrid)  
 
 ---
 
-*Imagem 2: Questão 1584 aceita no LeetCode*  
-![Imagem 2: Questão 1584 aceita no LeetCode](./screenshots/Questao_Prim_1584.png)
+*Imagem 4: Questão 1584 aceita no LeetCode*  
+
+![Imagem 4: Questão 1584 aceita no LeetCode](./screenshots/Questao_Prim_1584.png)
 
 **Autora:** [Ingrid Alves](https://github.com/alvesingrid) 
 
