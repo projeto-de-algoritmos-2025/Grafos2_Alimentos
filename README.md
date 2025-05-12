@@ -1,6 +1,6 @@
-# NomedoProjeto
+# Grafos2_Alimentos
 
-**Número da Lista**: 1<br>
+**Número da Lista**: 2<br>
 **Conteúdo da Disciplina**: Grafos 2<br>
 
 ## Alunos
