@@ -17,9 +17,12 @@ O objetivo deste projeto é treinar e aprofundar a compreensão dos algoritmos d
 
 <div style="text-align: center">
 
-<font size="3"><p style="text-align: center">Imagem 1: Questão 2360 aceita no LeetCode </p></font>
-![2360](./screenshots/2360.png)
-<font size="3"><p style="text-align: center"><b>Autores: [Milena Rocha](https://github.com/MilenaFRocha)</b></p></font>
+<div style="text-align: center">
+    <font size="3"><p style="text-align: center">Imagem 1: Questão 2360 aceita no LeetCode</p></font>
+    <img src="./screenshots/2360.png" alt="2360">
+    <font size="3"><p style="text-align: center"><b>Autores: [Milena Rocha](https://github.com/MilenaFRocha)</b></p></font>
+</div>
+
 
 
 
@@ -27,6 +30,8 @@ O objetivo deste projeto é treinar e aprofundar a compreensão dos algoritmos d
 **Linguagem**: Python<br>
 **Sites**: LeetCode<br>
 <br>
+
+---
 
 ### Questão 2360 - [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/description/)
 
@@ -42,7 +47,7 @@ No código, o array `visit_id` armazena os números de visitação. O mapa `tmap
 
 **Resumo:** O **DFS Numbering** permite identificar ciclos ao registrar a ordem de visitação dos nós e calcular o tamanho do ciclo com base nos números de visitação.
 
-
+---
 
 
 
