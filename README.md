@@ -20,18 +20,18 @@ O objetivo deste projeto é treinar e aprofundar a compreensão dos algoritmos d
 
 ## Screenshots
 
-
 ![Imagem 1: Questão 2360 aceita no LeetCode](./screenshots/2360.png)
 
-**Autora: [Milena Rocha](https://github.com/MilenaFRocha)**
+*Imagem 1: Questão 2360 aceita no LeetCode*  
+**Autora:** [Milena Rocha](https://github.com/MilenaFRocha)
 
 ---
 
 ![Imagem 2: Questão 734 aceita no LeetCode](./screenshots/734.png)
 
-**Autora: [Milena Rocha](https://github.com/MilenaFRocha)**  
+*Imagem 2: Questão 734 aceita no LeetCode*  
+**Autora:** [Milena Rocha](https://github.com/MilenaFRocha)  
 
-</div>
 
 
 ---
