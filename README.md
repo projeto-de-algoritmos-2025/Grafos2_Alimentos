@@ -21,24 +21,17 @@ O objetivo deste projeto é treinar e aprofundar a compreensão dos algoritmos d
 ## Screenshots
 
 
-<div style="text-align: center">
-
-<div style="text-align: center">
-    <p><strong>Imagem 1: Questão 2360 aceita no LeetCode</strong></p>
-    <img src="./screenshots/2360.png" alt="2360" style="max-width: 80%; height: auto;">
-    <p><strong>Autora: <a href="https://github.com/MilenaFRocha">Milena Rocha</a></strong></p>
+<div style="text-align: center; margin-bottom: 2rem;">
+  <p><strong>Imagem 1: Questão 2360 aceita no LeetCode</strong></p>
+  <img src="./screenshots/2360.png" alt="2360" style="max-width: 80%; height: auto;">
+  <p><strong>Autora: <a href="https://github.com/MilenaFRocha" target="_blank">Milena Rocha</a></strong></p>
 </div>
 
-<br>
-
-<div style="text-align: center">
-    <p><strong>Imagem 2: Questão 734 aceita no LeetCode</strong></p>
-    <img src="./screenshots/734.png" alt="734" style="max-width: 80%; height: auto;">
-    <p><strong>Autora: <a href="https://github.com/MilenaFRocha">Milena Rocha</a></strong></p>
+<div style="text-align: center; margin-bottom: 2rem;">
+  <p><strong>Imagem 2: Questão 734 aceita no LeetCode</strong></p>
+  <img src="./screenshots/734.png" alt="734" style="max-width: 80%; height: auto;">
+  <p><strong>Autora: <a href="https://github.com/MilenaFRocha" target="_blank">Milena Rocha</a></strong></p>
 </div>
-
-
-
 
 
 ---
