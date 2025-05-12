@@ -1,4 +1,4 @@
-# Grafos2_Alimentos
+# Grafos2_Questoes_LeetCode
 
 **Número da Lista**: 2<br>
 **Conteúdo da Disciplina**: Grafos 2<br>
