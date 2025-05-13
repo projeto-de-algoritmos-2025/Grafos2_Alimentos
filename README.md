@@ -31,6 +31,7 @@ O objetivo deste projeto é treinar e aprofundar a compreensão dos algoritmos d
 ![Imagem 2: Questão 734 aceita no LeetCode](./screenshots/734.png)
 
 **Autora:** [Milena Rocha](https://github.com/MilenaFRocha)  
+
 ---
 
 *Imagem 3: Questão 1489 aceita no LeetCode*  
@@ -47,7 +48,20 @@ O objetivo deste projeto é treinar e aprofundar a compreensão dos algoritmos d
 **Autora:** [Ingrid Alves](https://github.com/alvesingrid) 
 
 
+---
 
+
+## Link do Vídeo
+
+<div align="center">
+
+[![Assista ao vídeo](https://img.youtube.com/vi/DZ_3LrukvzA/0.jpg)](https://www.youtube.com/watch?v=DZ_3LrukvzA)
+
+**Fonte:** [Milena Rocha](https://github.com/milenafrocha) e [Ingrid Alves](https://github.com/alvesingrid)  
+Disponível em: [https://www.youtube.com/watch?v=DZ_3LrukvzA](https://www.youtube.com/watch?v=DZ_3LrukvzA)  
+Acesso em: 21 nov. 2024.
+
+</div>
 
 ---
 
@@ -94,7 +108,7 @@ O **algoritmo de Dijkstra** encontra o menor tempo para alcançar todos os nós 
 
 ### Questão 1489 - [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/)
 
-* **Solução:** [1489](./Questoes/1489.py)  
+* **Solução:** [1489](./Questoes/Questao_Kruscal_1489.py)  
 * **Nível:** Hard  
 * **Conteúdo usado:** Kruskal, Union-Find, MST com inclusão/exclusão de arestas
 
@@ -119,7 +133,7 @@ A ordenação das arestas pelo peso é essencial para garantir que o algoritmo d
 
 ### Questão 1584 - [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)
 
-* **Solução:** [1584](./Questoes/1584.py)  
+* **Solução:** [1584](./Questoes/Questao_Prim_1584.py)  
 * **Nível:** Medium  
 * **Conteúdo usado:** Algoritmo de Prim, Árvore Geradora Mínima (MST), Min-Heap (Fila de Prioridade)
 
@@ -140,6 +154,8 @@ Diferente do Kruskal, o Prim **não precisa gerar todas as arestas previamente**
 **Resumo:** A solução aplica o **algoritmo de Prim com fila de prioridade (heap)** para construir uma **MST** conectando todos os pontos com custo mínimo, utilizando a distância de Manhattan como peso entre os nós.
 
 ---
+
+
 
 
 
