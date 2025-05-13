@@ -21,6 +21,7 @@ O objetivo deste projeto é treinar e aprofundar a compreensão dos algoritmos d
 ## Screenshots
 
 *Imagem 1: Questão 2360 aceita no LeetCode*  
+
 ![Imagem 1: Questão 2360 aceita no LeetCode](./screenshots/2360.png)
 
 **Autora:** [Milena Rocha](https://github.com/MilenaFRocha)
@@ -28,6 +29,7 @@ O objetivo deste projeto é treinar e aprofundar a compreensão dos algoritmos d
 ---
 
 *Imagem 2: Questão 734 aceita no LeetCode*  
+
 ![Imagem 2: Questão 734 aceita no LeetCode](./screenshots/734.png)
 
 **Autora:** [Milena Rocha](https://github.com/MilenaFRocha)  
@@ -35,6 +37,7 @@ O objetivo deste projeto é treinar e aprofundar a compreensão dos algoritmos d
 ---
 
 *Imagem 3: Questão 1489 aceita no LeetCode*  
+
 ![Imagem 3: Questão 1489 aceita no LeetCode](./screenshots/Questao_Kruscal_1489.png)
 
 **Autora:** [Ingrid Alves](https://github.com/alvesingrid)  
