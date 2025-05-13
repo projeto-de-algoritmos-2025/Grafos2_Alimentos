@@ -37,7 +37,6 @@ O objetivo deste projeto é treinar e aprofundar a compreensão dos algoritmos d
 ---
 
 *Imagem 3: Questão 1489 aceita no LeetCode*  
-
 ![Imagem 3: Questão 1489 aceita no LeetCode](./screenshots/Questao_Kruscal_1489.png)
 
 **Autora:** [Ingrid Alves](https://github.com/alvesingrid)  
@@ -58,10 +57,10 @@ O objetivo deste projeto é treinar e aprofundar a compreensão dos algoritmos d
 
 <div align="center">
 
-[![Assista ao vídeo](https://img.youtube.com/vi/DZ_3LrukvzA/0.jpg)](https://www.youtube.com/watch?v=DZ_3LrukvzA)
+[![Assista ao vídeo](https://img.youtube.com/vi/0PBQDbMzL10/0.jpg)](https://youtu.be/0PBQDbMzL10)
 
-**Fonte:** [Milena Rocha](https://github.com/milenafrocha) e [Ingrid Alves](https://github.com/alvesingrid)  
-Disponível em: [https://www.youtube.com/watch?v=DZ_3LrukvzA](https://www.youtube.com/watch?v=DZ_3LrukvzA)  
+**Fonte:** [Milena Rocha](https://github.com/milenafrocha) e [Ingrid Alves](https://github.com/alvesingrid)
+Disponível em: [https://youtu.be/0PBQDbMzL10](https://youtu.be/0PBQDbMzL10)
 Acesso em: 21 nov. 2024.
 
 </div>
