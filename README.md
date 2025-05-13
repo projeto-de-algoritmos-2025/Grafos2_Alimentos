@@ -61,7 +61,7 @@ O objetivo deste projeto é treinar e aprofundar a compreensão dos algoritmos d
 
 **Fonte:** [Milena Rocha](https://github.com/milenafrocha) e [Ingrid Alves](https://github.com/alvesingrid)
 Disponível em: [https://youtu.be/0PBQDbMzL10](https://youtu.be/0PBQDbMzL10)
-Acesso em: 21 nov. 2024.
+Acesso em: 12 de maio. 2025.
 
 </div>
 
